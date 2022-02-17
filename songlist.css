@@ -1,6 +1,6 @@
 Setlist { 
      color: white; 
-     background-color : gray; 
+     background-color : purple; 
      width: 100%; 
      text-align: center;
      padding-bottom: 15px;
@@ -8,7 +8,7 @@ Setlist {
  header { 
      color: white; 
      font-size : 40px; 
-     background-color : black; 
+     background-color : gray; 
      padding: 20px;
 } 
  header, Song, name, artist, genre, year { 
