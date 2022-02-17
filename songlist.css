@@ -1,0 +1,21 @@
+Setlist { 
+     color: white; 
+     background-color : gray; 
+     width: 100%; 
+     text-align: center;
+     padding-bottom: 15px;
+} 
+ header { 
+     color: white; 
+     font-size : 40px; 
+     background-color : black; 
+     padding: 20px;
+} 
+ header, Song, name, artist, genre, year { 
+     display : block; 
+} 
+name { 
+	 padding: 10px;
+     font-size : 25px; 
+     font-weight : bold; 
+}
