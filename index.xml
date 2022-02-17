@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="setlistcss.css"?> 
+<Setlist>
+	<header> Tonight's Song List </header> 
+	<Song>
+		<image>
+
+		</image>
+		<name> Stronger </name>
+		<artist> Raveena </artist>
+		<genre> R&B </genre>
+		<year> 2019 </year>
+	</Song>
+
+	<Song>
+		<image>
+
+		</image>
+		<name> Roxanne </name>
+		<artist> Arizona Zervas </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+
+	<Song>
+		<image>
+
+		</image>
+		<name> Sofia </name>
+		<artist> Clairo </artist>
+		<genre> Rock </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> July </name>
+		<artist> Noah Cyrus </artist>
+		<genre> Pop </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Pluto Projector </name>
+		<artist> Rex Orange County </artist>
+		<genre> Indie </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Circles </name>
+		<artist> Post Malone </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Again </name>
+		<artist> Kehlani </artist>
+		<genre> Pop </genre>
+		<year> 2018 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Nothing </name>
+		<artist> Bruno Major </artist>
+		<genre> Indie </genre>
+		<year> 2020 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Gravity </name>
+		<artist> Sara Bareilles </artist>
+		<genre> Pop </genre>
+		<year> 2007 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Happier than Ever </name>
+		<artist> Billie Eilish </artist>
+		<genre> Pop </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Cloud 9 </name>
+		<artist> Beach Bunny </artist>
+		<genre> Indie </genre>
+		<year> 2020 </year>
+	</Song>
+</Setlist>
